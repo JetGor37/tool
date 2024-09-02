@@ -34,16 +34,16 @@ cmcc.090227.xyz#移动
 104.16.156.138#美国
 
 
-fq.kc8899.sbs#解锁A
-fq.kc8899.sbs#解锁B
-fq.kc8899.sbs#解锁C
-fq.kc8899.sbs#解锁D
-fq.kc8899.sbs#解锁E
-fq.kc8899.sbs#解锁F
-fq.kc8899.sbs#解锁G
-fq.kc8899.sbs#解锁H
-fq.kc8899.sbs#解锁I
-fq.kc8899.sbs#解锁J
-fq.kc8899.sbs#解锁K
-fq.kc8899.sbs#解锁L
-fq.kc8899.sbs#解锁M
+cf.090227.xyz#解锁A
+cf.090227.xyz#解锁B
+cf.090227.xyz#解锁C
+cf.090227.xyz#解锁D
+cf.090227.xyz#解锁E
+cf.090227.xyz#解锁F
+cf.090227.xyz#解锁G
+cf.090227.xyz#解锁H
+cf.090227.xyz#解锁I
+cf.090227.xyz#解锁J
+cf.090227.xyz#解锁K
+cf.090227.xyz#解锁L
+cf.090227.xyz#解锁M
