@@ -12,11 +12,14 @@ cmcc.090227.xyz#移动
 
 saas.sin.fan#日本
 cdns.doon.eu.org#日本
+cf.008500.xyz#日本
+cf.877774.xyz#日本
+blog.811520.xyz#日本
 
 mfa.gov.ua#新加坡
 store.ubi.com#新加坡
 cf.090227.xyz#新加坡
-
+cloudflare.182682.xyz#新加坡
 
 
 104.18.121.220#美国
@@ -27,9 +30,8 @@ cf.090227.xyz#新加坡
 104.16.156.138#美国
 
 
-cf.008500.xyz#优选
-cf.877774.xyz#优选
-blog.811520.xyz#优选
-cloudflare.182682.xyz#优选
+
+
+
 
 
