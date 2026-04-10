@@ -13,10 +13,6 @@ cmcc.090227.xyz#移动
 saas.sin.fan#日本
 cdns.doon.eu.org#日本
 
-220.76.60.187:50001#韩国
-182.209.106.51:50001#韩国
-182.209.106.51:50001#韩国
-
 mfa.gov.ua#新加坡
 store.ubi.com#新加坡
 cf.090227.xyz#新加坡
@@ -31,19 +27,9 @@ cf.090227.xyz#新加坡
 104.16.156.138#美国
 
 
-cf.090227.xyz#解锁A
-cf.090227.xyz#解锁B
-cf.090227.xyz#解锁C
-cf.090227.xyz#解锁D
-cf.090227.xyz#解锁E
-cf.090227.xyz#解锁F
-cf.090227.xyz#解锁G
-cf.090227.xyz#解锁H
-cf.090227.xyz#解锁I
-cf.090227.xyz#解锁J
-cf.090227.xyz#解锁K
-cf.090227.xyz#解锁L
-cf.090227.xyz#解锁M
-
+cf.008500.xyz#优选
+cf.877774.xyz#优选
+blog.811520.xyz#优选
+cloudflare.182682.xyz#优选
 
 
