@@ -11,14 +11,12 @@ cmcc.090227.xyz#移动
 
 
 45.192.203.120:8443#台湾
-103.118.42.136:8443#台湾
 114.32.9.249:443#台湾
 142.249.60.51:443#台湾
 203.69.11.79:443#台湾
 203.69.11.80:443#台湾
 203.69.11.81:443#台湾
 211.72.147.91:443#台湾
-220.132.74.165:443#台湾
 220.135.92.105:2087#台湾
 
 
@@ -27,43 +25,37 @@ cdns.doon.eu.org#日本
 cf.008500.xyz#日本
 cf.877774.xyz#日本
 blog.811520.xyz#日本
+cmcc.vvvv.ee:443#日本
+cf.godns.cc:443#日本
+cloudflare.idc.rocks:443#日本
+qocu.cf.3666888.xyz:443#日本
+4.cf.3666888.xyz:443#日本
 
 mfa.gov.ua#新加坡
 store.ubi.com#新加坡
 cf.090227.xyz#新加坡
 cloudflare.182682.xyz#新加坡
-
+cloudflare-ip.mofashi.ltd:443#新加坡
+cfsaas.080112.xyz:443#新加坡
+cdns.doon.eu.org:443#新加坡
+cf-cname.xingpingcn.top:443#新加坡
+openai.com:443#新加坡
+nexusmods.com:443#新加坡
+8.cf.3666888.xyz:443#新加坡
+yg1.ygkkk.dpdns.org:443#新加坡
+cf.1o.ee:443#新加坡
+www.akasantech.com:443#新加坡
+prompt.gzcrtw.com:443#新加坡
 
 104.18.121.220#美国
 104.18.120.246#美国
 104.21.231.242#美国
 ct.cf.959923.xyz#美国
-162.159.198.1:44#美国
-cloudflare-ip.mofashi.ltd:443#美国
-cfsaas.080112.xyz:443#美国
-cdns.doon.eu.org:443#美国
-cf-cname.xingpingcn.top:443#美国
-openai.com:443#美国
-cmcc.vvvv.ee:443#美国
-cf.godns.cc:443#美国
 www.fastsoso.cn:443#美国
-nexusmods.com:443#美国
-cloudflare.idc.rocks:443#美国
 a.lma.de5.net:443#美国
 cf.cf.3666888.xyz:443#美国
-qocu.cf.3666888.xyz:443#美国
-4.cf.3666888.xyz:443#美国
-8.cf.3666888.xyz:443#美国
-yg1.ygkkk.dpdns.org:443#美国
-cf.1o.ee:443#美国
-www.akasantech.com:443#美国
 api.gzcrtw.com:443#美国
-prompt.gzcrtw.com:443#美国
 162.159.197.1:443#美国
-
-
-
-
 
 123.111.169.70:2083#韩国
 123.111.169.70:2087#韩国
