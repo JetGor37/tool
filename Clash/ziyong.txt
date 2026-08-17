@@ -35,11 +35,31 @@ cloudflare.182682.xyz#新加坡
 
 
 104.18.121.220#美国
-47.75.111.178#美国
-106.15.124.10#美国
 104.18.120.246#美国
 104.21.231.242#美国
 ct.cf.959923.xyz#美国
+162.159.198.1:44#美国
+cloudflare-ip.mofashi.ltd:443#美国
+cfsaas.080112.xyz:443#美国
+cdns.doon.eu.org:443#美国
+cf-cname.xingpingcn.top:443#美国
+openai.com:443#美国
+cmcc.vvvv.ee:443#美国
+cf.godns.cc:443#美国
+www.fastsoso.cn:443#美国
+nexusmods.com:443#美国
+cloudflare.idc.rocks:443#美国
+a.lma.de5.net:443#美国
+cf.cf.3666888.xyz:443#美国
+qocu.cf.3666888.xyz:443#美国
+4.cf.3666888.xyz:443#美国
+8.cf.3666888.xyz:443#美国
+yg1.ygkkk.dpdns.org:443#美国
+cf.1o.ee:443#美国
+www.akasantech.com:443#美国
+api.gzcrtw.com:443#美国
+prompt.gzcrtw.com:443#美国
+162.159.197.1:443#美国
 
 
 
