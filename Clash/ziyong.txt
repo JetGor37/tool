@@ -32,8 +32,7 @@ qocu.cf.3666888.xyz:443#日本
 4.cf.3666888.xyz:443#日本
 skk.moe:443#日本
 bestcf.030101.xyz:443#日本
-cf.tencentapp.cn:443#日本
-1.cf.cnae.top#日本
+*.cloudflare-dualstack.byoip.top#日本
 
 mfa.gov.ua#新加坡
 store.ubi.com#新加坡
