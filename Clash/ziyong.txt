@@ -9,8 +9,6 @@ cmcc.090227.xyz#移动
 216.236.33.130:1891#香港
 
 
-
-
 140.115.53.51:443#台湾
 
 
@@ -18,10 +16,7 @@ saas.sin.fan#日本
 cdns.doon.eu.org#日本
 cf.008500.xyz#日本
 cf.877774.xyz#日本
-blog.811520.xyz#日本
 cmcc.vvvv.ee:443#日本
-cf.godns.cc:443#日本
-cloudflare.idc.rocks:443#日本
 qocu.cf.3666888.xyz:443#日本
 4.cf.3666888.xyz:443#日本
 skk.moe:443#日本
